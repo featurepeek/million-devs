@@ -110,7 +110,7 @@ html {
 }
 
 body {
-  background: #00dc9e;
+  background: #bada55;
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: bold;
